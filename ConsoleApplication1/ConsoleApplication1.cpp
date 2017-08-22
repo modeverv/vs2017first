@@ -2,10 +2,13 @@
 //
 
 #include "stdafx.h"
-
+#include <stdio.h>
 
 int main()
 {
+	while (true) {
+		printf("%s\n", "hl");
+	}
     return 0;
 }
 
